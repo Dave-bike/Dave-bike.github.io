@@ -13,12 +13,14 @@ body {
 
 }
 
-#header {
+#nav {
   background-image: url(../imgs/audiomusica.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   font-family: 'Raleway', sans-serif;
+  padding-top: 50px;
+  
 }
 #name {
     font-size: 7em; 
@@ -45,4 +47,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  
 }
+
